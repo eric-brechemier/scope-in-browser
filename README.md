@@ -1,6 +1,13 @@
 #scope-in-browser
 
-Example use in browser of the scope() function from scopeornot project
+Examples of use of the scope() function from scopeornot project
+in a browser:
+
+1. [Run Code](example1.html)
+2. [Request What You Need](example2.html)
+3. [Define a Module with Dependencies](example3.html)
+4. [Define Modules in a Shared Private Scope](example4.html)
+5. [Define Modules Out of Order, Run When Ready](example5.html)
 
 ##LANGUAGE
 
