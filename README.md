@@ -9,6 +9,13 @@ in a browser:
 4. [Define Modules in a Shared Private Scope](example4.html)
 5. [Define Modules Out of Order, Run When Ready](example5.html)
 
+Unit tests for scope() implementations in the browser:
+
+1. [scope-bootstrap.js](test1.html)
+2. [scope-private.js](test2.html)
+3. [scope-ready.js](test3.html)
+4. [scope-log.js](test4.html)
+
 ##LANGUAGE
 
   JavaScript
