@@ -2,16 +2,24 @@
 
 Example use in browser of the scope() function from scopeornot project
 
+## NOTICE
+
+  The examples have moved to:  
+  https://github.com/eric-brechemier/scopeornot/tree/master/examples
+
+  The unit tests have moved to:  
+  https://github.com/eric-brechemier/scopeornot/tree/master/tests
+
 ##LANGUAGE
 
   JavaScript
 
 ##DESCRIPTION
 
-  Using the scope() function defined in scopeornot [1], this example runs
-  code and defines modules in a browser environment.
+  Using the scope() function defined in scopeornot [1], these examplesrun
+  code and define modules in a browser environment.
 
-  The example is completed with unit tests running in QUnit [2].
+  The examples are completed with unit tests running in QUnit [2].
 
 ##REFERENCE
 
@@ -35,4 +43,5 @@ Example use in browser of the scope() function from scopeornot project
 
   2012-05-09, v0.1.0, Five examples of use in the browser  
   2012-05-10, v0.1.1, Tests of four implementations of scope() in the browser  
+  2014-06-30, v0.1.2, Merged with https://github.com/eric-brechemier/scopeornot
 
